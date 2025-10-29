@@ -1,0 +1,27 @@
+{
+  "name": "backend-development-api-creation",
+  "version": "1.0.0",
+  "description": "Social Network for developers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "Mahmoud Medhat",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "config": "^4.1.1",
+    "express": "^5.1.0",
+    "express-validator": "^7.3.0",
+    "gravatar": "^1.8.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.1",
+    "nodemon": "^3.1.10"
+  }
+}
