@@ -1,0 +1,6 @@
+{
+    "githubClientId": "your_client_id",
+    "githubSecret": "your_client_secret",
+    "JWTSecret": "yourSecretKey",
+    "mongoURI": "mongodb+srv://mahmoudmsubhy_db_user:Zyq7KGwE6KKj4qYh@cluster0.4tpypyg.mongodb.net/?appName=Cluster0"
+}
